@@ -3,7 +3,12 @@
 We follow the official code of [Bayesian Loss for Crowd Count Estimation with Point Supervision (BL)](https://github.com/ZhihengCV/Bayesian-Crowd-Counting) and [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://github.com/chen-judge/RGBTCrowdCounting).
 
 ## Install dependencies
-torch >= 1.0 torchvision opencv numpy scipy, all the dependencies can be easily installed by pip or conda
+torch >= 1.0
+torchvision
+opencv
+numpy
+scipy
+...
 
 This code was tested with python 3.6
 
