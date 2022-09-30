@@ -10,7 +10,7 @@ numpy
 scipy
 ...
 
-This code was tested with python 3.6
+python 3.6
 
 ## Preprocessing
 
