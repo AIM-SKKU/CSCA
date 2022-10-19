@@ -133,8 +133,7 @@ class RegTrainer(Trainer):
 
             if epoch >= args.val_start and (game0_is_best or game3_is_best):
                 self.test_epoch()
-
-    # the version for calculting the throughput
+                
     def train_eopch(self):
         epoch_loss = AverageMeter()
         epoch_game = AverageMeter()
@@ -189,7 +188,7 @@ class RegTrainer(Trainer):
 
     def val_epoch(self):
         args = self.args
-        self.model.eval()  # Set model to evaluate mode
+        self.model.eval()
 
         # Iterate over data.
         game = [0, 0, 0, 0]
