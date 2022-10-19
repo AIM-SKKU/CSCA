@@ -1,4 +1,4 @@
-# Spatio-channel-Attention-Blocks for Cross-modal Crowd Counting -- Official Pytorch Implementation
+# Spatio-channel Attention Blocks for Cross-modal Crowd Counting -- Official Pytorch Implementation
 Youjia Zhang, Soyun Choi, and Sungeun Hong."Spatio-channel Attention Blocks for Cross-modal Crowd Counting". The 16th Asian Conference on Computer Vision (ACCV), 2022.
 
 Our proposed CSCA, a plug-and-play module, can achieve significant improvements for cross-modal crowd counting by simply integrating into various backbone network. You can refer to this code for implementing BL+CSCA for RGBT Crowd Counting. We follow the official code of [Bayesian Loss for Crowd Count Estimation with Point Supervision (BL)](https://github.com/ZhihengCV/Bayesian-Crowd-Counting) and [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://github.com/chen-judge/RGBTCrowdCounting).
