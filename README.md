@@ -16,7 +16,7 @@ python 3.6
 ## Method
 The architecture of the proposed unified framework for extending existing baseline models from unimodal crowd counting to multimodal scenes. Our CSCA module is taken as the cross-modal solution to fully exploit the multimodal complementarities. Specifically, the CSCA consists of SCA to model global feature correlations among multimodal data, and CFA to dynamically aggregate complementary features.
 
-<img src="https://github.com/zhangyj66/ACCV-2022-Spatio-channel-Attention-Blocks-for-Cross-modal-Crowd-Counting/edit/main/Figure4.jpg" width="200">
+<img src="https://github.com/zhangyj66/ACCV-2022-Spatio-channel-Attention-Blocks-for-Cross-modal-Crowd-Counting/edit/main/Architecture.jpg">
 
 
 ## Preprocessing
