@@ -40,4 +40,5 @@ bash test.sh
 
 ## Qualitative Results.
 From the visualization results in cases (a) to (d) of the following figure, we can easily find that additional modality images can facilitate the crowd counting task better than only RGB images.  As we discussed earlier in the paper, inappropriate fusions fail to exploit the potential complementarity of multimodal data and even degrade the performance, such as the early fusion and late fusion shown in (e) and (f). Our proposed CSCA, a plug-and-play module, can achieve significant improvements for cross-modal crowd counting by simply integrating into the backbone network as shown in (g). This result shows the effectiveness of CSCA's complementary multi-modal fusion.
+
 ![Visualization](https://github.com/zhangyj66/ACCV-2022-Spatio-channel-Attention-Blocks-for-Cross-modal-Crowd-Counting/blob/main/image/Visualization.jpg)
